@@ -105,12 +105,12 @@ case "snickers":
 }
 ```
 
-- **No parentheses around the conditions**
+- No parentheses around the conditions
 - No opening and closing brackets in each of the cases
 - **No default case in the switch statement**
 - No print statement right outside the switch statement
 
-**Choices 1 and 3**
+**No default case in the switch statement**
 
 ***
 ## Question 5
